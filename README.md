@@ -2,7 +2,9 @@
 
 Jr. BigData Platform Technical Support Engineer  
 
-[https://jx2lee.github.io](https://jx2lee.github.io), [https://github.com/jx2lee](https://github.com/jx2lee), [https://www.linkedin.com/in/jaejun-lee-3287b0137/](https://www.linkedin.com/in/jaejun-lee-3287b0137/)  
+- **Techblog**  :[https://jx2lee.github.io](https://jx2lee.github.io)
+- **Github**    :[https://github.com/jx2lee](https://github.com/jx2lee)
+- **linkedin**  :[https://www.linkedin.com/in/jaejun-lee-3287b0137/](https://www.linkedin.com/in/jaejun-lee-3287b0137/)  
 
 ## 🍳TECHNICAL SKILLS
 
