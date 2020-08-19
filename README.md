@@ -18,7 +18,8 @@ Jr. BigData Platform Technical Support Engineer
 * Build BigData Platform HyperData8
 * Analyzed Analysis task
    * Domain classification (Using BERT)
-   * Keyword Match (Membership and bulletin board - binary classification)
+   * Keyword Match for Membership and bulletin board
+     * [keywordmatch](https://github.com/jx2lee/keyword-match)
 
 ## 💼EXPERIENCE
 
