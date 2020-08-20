@@ -20,7 +20,7 @@ Jr. BigData Platform Technical Support Engineer
    * Domain classification (Using BERT)
    * Keyword Match for Membership and bulletin board: [keywordmatch](https://github.com/jx2lee/keyword-match)
 
-### 🐒SIDE PROJECT
+### SIDE PROJECT
 
 #### Kubeflow Deployer
 
