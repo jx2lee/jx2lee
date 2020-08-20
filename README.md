@@ -21,7 +21,6 @@ Jr. BigData Platform Technical Support Engineer
    * Keyword Match for Membership and bulletin board: [keywordmatch](https://github.com/jx2lee/keyword-match)
 
 ### SIDE PROJECT
----
 
 #### Kubeflow Deployer
 
