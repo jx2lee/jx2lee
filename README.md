@@ -18,24 +18,18 @@ Jr. BigData Platform Technical Support Engineer
 * Build BigData Platform HyperData8
 * Analyzed Analysis task
    * Domain classification (Using BERT)
-   * Keyword Match for Membership and bulletin board
-     * [keywordmatch](https://github.com/jx2lee/keyword-match)
+   * Keyword Match for Membership and bulletin board: [keywordmatch](https://github.com/jx2lee/keyword-match)
 
 ### 🐒SIDE PROJECT
 
 #### Kubeflow Deployer
 
-* Deploy Kubeflow Using Shell Script
-* Repo How to install Kubeflow in a Kubernetes
-* github: [https://github.com/jx2lee/kubeflow-deployer](https://github.com/jx2lee/kubeflow-deployer)
-  * **kubeflow image loader**: repo is for to pull/push docker image to private registry for Kubeflow
-  * github: [https://github.com/jx2lee/kubeflow-image-loader](https://github.com/jx2lee/kubeflow-image-loader)
+* Deploy Kubeflow Using Shell Script: [github](https://github.com/jx2lee/kubeflow-deployer)
+  * **[kubeflow image loader](https://github.com/jx2lee/kubeflow-image-loader)**: repo is for to pull/push docker image to private registry for Kubeflow
 
 #### Digit Recognition
 
-* Detect Box and Predict VIN-number
-* This repo is for Detecting box and to Predict VIN-Number based on 'Neural Network' methods
-* github: [https://github.com/jx2lee/digit-recognition](https://github.com/jx2lee/digit-recognition)
+* Detect Box and Predict VIN-number: [github](https://github.com/jx2lee/digit-recognition)
 
 ## 💼EXPERIENCE
 
