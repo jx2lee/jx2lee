@@ -8,8 +8,8 @@ Jr. BigData Platform Technical Support Engineer
 
 ## 🍳TECHNICAL SKILLS
 
-* **Back-end**: Python, Database(SQL)
-* **Others**: Kubernetes, Docker, Shell, Git&Github
+* **Programming Skills**: Python, SQL
+* **Backend**: Kubernetes, Docker, Linux, Git
 
 ## 🏆PROJECT
 
