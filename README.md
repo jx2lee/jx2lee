@@ -6,7 +6,7 @@ Jr. BigData Platform Technical Support Engineer
 - **Github**    :[https://github.com/jx2lee](https://github.com/jx2lee)
 - **linkedin**  :[https://www.linkedin.com/in/jaejun-lee-3287b0137/](https://www.linkedin.com/in/jaejun-lee-3287b0137/)  
 
-## 🍳TECHNICAL SKILLS
+## 🍳SKILLS
 
 * **Programming Skills**: Python, SQL
 * **Backend**: Kubernetes, Docker, Linux, Git
