@@ -18,14 +18,14 @@ Jr. BigData Platform Technical Support Engineer
 * Build BigData Platform HyperData8
 * Analyzed Analysis task
    * Domain classification (Using BERT)
-   * Keyword Match for Membership and bulletin board: [keywordmatch](https://github.com/jx2lee/keyword-match)
+   * Keyword Match for Membership and bulletin board: [KeywordMatch](https://github.com/jx2lee/KeywordMatch)
 
 ### SIDE PROJECT
 
 #### Kubeflower
 
 * Deploy Kubeflow on Kubernetes: [github](https://github.com/jx2lee/Kubeflower)
-  * **[KFimgr](https://github.com/jx2lee/KFimgr)**
+  * [KFimgr](https://github.com/jx2lee/KFimgr)
 
 #### Digit Recognition
 
