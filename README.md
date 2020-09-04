@@ -24,8 +24,8 @@ Jr. BigData Platform Technical Support Engineer
 
 #### Kubeflower
 
-* Deploy Kubeflow Using Shell Script: [github](https://github.com/jx2lee/Kubeflower)
-  * **[kubeflow image loader](https://github.com/jx2lee/kubeflow-image-loader)**: repo is for to pull/push docker image to private registry for Kubeflow
+* Deploy Kubeflow on Kubernetes: [github](https://github.com/jx2lee/Kubeflower)
+  * **[KFimgr](https://github.com/jx2lee/KFimgr)**
 
 #### Digit Recognition
 
