@@ -25,18 +25,21 @@ Jr. BigData Platform Technical Support Engineer
 #### Kubeflower
 
 * Deploy Kubeflow on Kubernetes: [github](https://github.com/jx2lee/Kubeflower)
-  * [KFimgr](https://github.com/jx2lee/KFimgr)
 
 #### Digit Recognition
 
 * Detect Box and Predict VIN-number: [github](https://github.com/jx2lee/digit-recognition)
+
+#### Lyric Generator
+
+* Generate Lyrics using Deep Learning: [github](https://github.com/jx2lee/lyric-generator)
 
 ## 💼EXPERIENCE
 
 ### TmaxData, Seoul - *PS Manger*, *[Aug 2018 - ING]*
 
 * Big Data Platform **HyperData** Technical Support (*on Kubernetes*)
-* Support Project & Technical documentation, Prepared Installation automation
+* Project & Technical documentation, Prepared Installation automation
 
 ## 📖EDUCATION
 
