@@ -49,9 +49,9 @@ Jr. BigData Platform Technical Support Engineer
 
 ### **BOAZ BigData club (#8)**, *[JAN 2017 - JAN 2018]*
 
-
-
 ## 🔈LANGUAGES
 
 * English
 * Korean (Native)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jx2lee&count_private=true)
