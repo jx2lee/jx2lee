@@ -53,5 +53,3 @@ Jr. BigData Platform Technical Support Engineer
 
 * English
 * Korean (Native)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jx2lee&count_private=true)
