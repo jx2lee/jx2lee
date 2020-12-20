@@ -1,4 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jx2lee)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, This is jx2lee! 😱
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jx2lee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
