@@ -23,6 +23,6 @@
 
 <div align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jx2lee&exclude_repo=github-readme-stats,jx2lee.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jx2lee&exclude_repo=github-readme-stats,jx2lee.github.io&theme=dracula&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
