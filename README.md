@@ -21,4 +21,4 @@
 * [ENGLISH](https://github.com/jx2lee/my-resume/blob/master/RESUME_eng.md)
 * [KOREAN](https://github.com/jx2lee/my-resume/blob/master/RESUME_kor.md)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jx2lee&exclude_repo=github-readme-stats,jx2lee.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jx2lee&exclude_repo=github-readme-stats,jx2lee.github.io,jaydebeapi,flashtext,junior-recruit-scheduler,markdowntutorial.com,k9s,fairing,kubeflow&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
