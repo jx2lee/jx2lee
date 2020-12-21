@@ -21,8 +21,4 @@
 * [ENGLISH](https://github.com/jx2lee/my-resume/blob/master/RESUME_eng.md)
 * [KOREAN](https://github.com/jx2lee/my-resume/blob/master/RESUME_kor.md)
 
-<div align=center>
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jx2lee&exclude_repo=github-readme-stats,jx2lee.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
