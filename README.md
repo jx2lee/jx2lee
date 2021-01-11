@@ -8,7 +8,7 @@
 </div>
 
 ### Software Technical Engineer
-* TechOps Engineer in NHN Toast
+* TechOps Engineer in NHN Soft
 
 ### Interests
 * Kubenetes, Docker
