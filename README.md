@@ -1,4 +1,4 @@
-### Hi there, This is jx2lee! 😱
+### This is jx2lee! 😱
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jx2lee.github.io/)](https://jx2lee.github.io/) 
@@ -12,7 +12,8 @@
 
 ### Interests
 * Kubenetes, Docker
-* Programming Language (Python, Golang, Java)
+* Data Engineering: Hadoop, ES, MongoDB, MySQL
+* Programming Language: Python, Golang, Java
 * Machine/Deep Learning
 
 ### RESUME
