@@ -11,8 +11,8 @@
 * TechOps Engineer in NHN Soft
 
 ### Interests
-* Kubenetes, Docker
 * Data Engineering: Hadoop, ES, MongoDB, MySQL
+* Cloud: Kubenetes, Docker
 * Programming Language: Python, Golang, Java
 * Machine/Deep Learning
 
