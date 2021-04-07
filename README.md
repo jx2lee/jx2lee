@@ -8,7 +8,7 @@
 </div>
 
 ### Software Technical Engineer
-* TechOps Engineer in NHN Soft
+* TechOps Engineer (NHN Soft)
 
 ### Interests
 * Data Engineering: Hadoop, ES, MongoDB, MySQL
@@ -22,8 +22,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jx2lee&hide=Jupyter-Notebook,html&exclude_repo=github-readme-stats,jx2lee.github.io,jaydebeapi,flashtext,junior-recruit-scheduler,markdowntutorial.com,k9s,fairing,kubeflow&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <p align="center">
   <a href="https://github.com/jx2lee/">
     <img src="https://raw.githubusercontent.com/jx2lee/jx2lee/master/github-metrics.svg" />
   </a>
 </p>
+-->
