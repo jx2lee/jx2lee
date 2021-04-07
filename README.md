@@ -1,7 +1,7 @@
 # Hi!🔥
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jx2lee.github.io/)](https://jx2lee.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://jx2lee.github.io/)](https://jx2lee.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jx2lee/)](https://www.linkedin.com/in/jx2lee/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaejun.lee.1991@gmail.com)](mailto:jaejun.lee.1991@gmail.com)
 
