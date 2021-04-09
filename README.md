@@ -7,6 +7,10 @@
 
 </div>
 
+<div align=center>
+![](./github-metrics.svg)
+</div>
+
 ### Software Technical Engineer
 * TechOps Engineer (NHN Soft)
 
