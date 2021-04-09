@@ -7,15 +7,14 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-#      - uses: lowlighter/metrics@v3.3
-      - uses: jx2lee/jx2lee@latest
+      - uses: lowlighter/metrics@v3.3
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: jx2lee
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_animations: yes
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
