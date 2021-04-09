@@ -271,14 +271,14 @@
   followed by <b>3</b> users
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  571</b> commits
+  <b>  573</b> commits
   <b>    0</b> pull requests reviewed
   <b>    0</b> pull requests opened
   <b>    0</b> issues opened
   <b>    0</b> issue comments
 
 <b>Tracked activity</b>
-  <b>    6</b> users followed
+  <b>    5</b> users followed
   <b>    0</b> repositories sponsored
   <b>   35</b> repositories starred
   <b>   23</b> repositories watched
