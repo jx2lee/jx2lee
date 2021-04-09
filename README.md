@@ -8,7 +8,7 @@
 </div>
 
 <div align=center>
-![](github-metrics.svg)
+<img src="./github-metrics.svg" alt="" />
 </div>
 
 ### Software Technical Engineer
