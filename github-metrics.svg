@@ -291,7 +291,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── Apache-2.0
 
-<span class="diff">@@ -1.53m +2.65m @@</span>
+<span class="diff">@@ -1.74m +3.02m @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [##########          ] 48.82%
 <b>PYTHON      </b> [#####               ] 21.45%
