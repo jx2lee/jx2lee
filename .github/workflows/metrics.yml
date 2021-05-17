@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 24 * *"}]
+  schedule: [{cron: "0 0/5 * * * ?"}]
   push: {branches: ["master"]}
   workflow_dispatch:
 jobs:
@@ -20,5 +20,5 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_ignored: html, javascript, css, xslt, mustache, vim script
+          plugin_languages_ignored: html, javascript, css, xslt, mustache, vim script, stylus, ejs
           plugin_lines: yes
