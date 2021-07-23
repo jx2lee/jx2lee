@@ -17,7 +17,7 @@
 ### Interests
 * Data Engineering: Hadoop, ES, MongoDB, MySQL
 * Cloud: Kubenetes, Docker
-* Programming Language: Python, Golang, Java
+* Programming Language: Python, Java, Golang
 * Machine/Deep Learning
 
 ### RESUME
