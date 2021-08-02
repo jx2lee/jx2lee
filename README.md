@@ -22,4 +22,4 @@
 
 ### RESUME
 * [KOREAN](https://jx2lee.notion.site/DevOps-839ddae7e0444266a59c2edd8547b27e)
-* [ENGLISH](https://github.com/jx2lee/my-resume/blob/master/RESUME_eng.md)
+* [ENGLISH](https://jx2lee.notion.site/Always-curious-DevOps-engineer-Jaejun-Lee-5eeab42c59d2455fae5457743231a110)
