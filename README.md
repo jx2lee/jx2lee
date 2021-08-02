@@ -21,5 +21,5 @@
 * Machine/Deep Learning
 
 ### RESUME
+* [KOREAN](https://jx2lee.notion.site/DevOps-839ddae7e0444266a59c2edd8547b27e)
 * [ENGLISH](https://github.com/jx2lee/my-resume/blob/master/RESUME_eng.md)
-* [KOREAN](https://github.com/jx2lee/my-resume/blob/master/RESUME_kor.md)
