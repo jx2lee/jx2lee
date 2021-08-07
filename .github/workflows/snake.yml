@@ -2,6 +2,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
+  push: {branches: ["master"]}
   workflow_dispatch:
 
 jobs:
@@ -13,7 +14,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: jx2lee
-          gif_out_path: jx2lee/github-contribution-grid-snake.gif
+          svg_out_path: github-contribution-grid-snake.svg
       - run: git status
       - name: Push changes
         uses: ad-m/github-push-action@master
