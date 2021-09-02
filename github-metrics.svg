@@ -266,11 +266,11 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Jaejun Lee</b> registered=1y, uid=5794, gid=0
-  contributed to 35 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 32 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>3</b> users
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  637</b> commits
+  <b>  606</b> commits
   <b>    0</b> pull requests reviewed
   <b>    0</b> pull requests opened
   <b>    0</b> issues opened
@@ -279,23 +279,23 @@
 <b>Tracked activity</b>
   <b>    4</b> users followed
   <b>    0</b> repositories sponsored
-  <b>   54</b> repositories starred
-  <b>   38</b> repositories watched
+  <b>   53</b> repositories starred
+  <b>   36</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 36 repositories - 462 MB
--r--  <b>   39</b>  stargazers
+<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 34 repositories - 461 MB
+-r--  <b>   38</b>  stargazers
 -r--  <b>    3</b>  forks
--r--  <b>   40</b>  watchers
+-r--  <b>   38</b>  watchers
 dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── Apache-2.0
 
-<span class="diff">@@ -1.54m +2.86m @@</span>
+<span class="diff">@@ -1.48m +2.80m @@</span>
 </div>
-<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [############        ] 58.57%
-<b>PYTHON      </b> [####                ] 19.14%
-<b>GO          </b> [###                 ] 11.75%
-<b>SHELL       </b> [###                 ] 10.54%
+<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [############        ] 57.68%
+<b>PYTHON      </b> [####                ] 17.65%
+<b>GO          </b> [###                 ] 13.21%
+<b>SHELL       </b> [###                 ] 11.46%
 </div></pre>
 
     </div>
