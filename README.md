@@ -11,13 +11,13 @@
 <img src="./github-metrics.svg" alt="" />
 </div>
 
-### Software Technical Engineer
-* TechOps Engineer (NHN Soft)
+### Software Engineer (TOBE)
+* Cloud-Operation Engineer (NHN Soft)
 
 ### Interests
-* Data Engineering: ES, MongoDB, MySQL, Hadoop
-* Cloud: Kubenetes, Docker
-* Programming Language: Python, Java, Golang
+* Data Engineering: ES, MongoDB, Hadoop, MySQL
+* Language: Java, Python
+* Container: Kubenetes, Docker
 * Machine/Deep Learning
 
 ### RESUME
