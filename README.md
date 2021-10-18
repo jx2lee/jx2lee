@@ -11,16 +11,13 @@
 <img src="./github-metrics.svg" alt="" />
 </div>
 
-### Software Engineer (TOBE)
-* Cloud-Operation Engineer (NHN Soft)
-
-### Interests
+# *Interests*
 * Data Engineering: ES, MongoDB, Hadoop, MySQL
 * Language: Java, Python
 * Container: Kubenetes, Docker
 * Machine/Deep Learning
 
-### RESUME
+# *RESUME*
 * [KOREAN](https://jx2lee.notion.site/DevOps-839ddae7e0444266a59c2edd8547b27e)
 * [ENGLISH](https://jx2lee.notion.site/Always-curious-DevOps-engineer-Jaejun-Lee-5eeab42c59d2455fae5457743231a110)
 
