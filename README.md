@@ -12,7 +12,7 @@
 </div>
 
 # *Interests*
-* Data Engineering: ES, MongoDB, Hadoop, MySQL
+* Data Engineering: ES, Kafka, MongoDB, Hadoop, MySQL
 * Language: Java, Python
 * Container: Kubenetes, Docker
 * Machine/Deep Learning
