@@ -18,8 +18,9 @@
 * Machine/Deep Learning
 
 # *Resume*
-* [Kor](https://jx2lee.notion.site/DevOps-839ddae7e0444266a59c2edd8547b27e)
-* [Eng](https://jx2lee.notion.site/Always-curious-DevOps-engineer-Jaejun-Lee-5eeab42c59d2455fae5457743231a110)
-
+* [click-link](https://github.com/jx2lee/resume/blob/my-resume/jaejun_lee_resume.pdf)
+* portfolio
+  * [Kor](https://jx2lee.notion.site/DevOps-839ddae7e0444266a59c2edd8547b27e)
+  * [Eng](https://jx2lee.notion.site/Always-curious-DevOps-engineer-Jaejun-Lee-5eeab42c59d2455fae5457743231a110)
 
 ![snake gif](https://github.com/jx2lee/jx2lee/blob/output/github-contribution-grid-snake.svg)
