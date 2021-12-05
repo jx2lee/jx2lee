@@ -11,11 +11,19 @@
 <img src="./github-metrics.svg" alt="" />
 </div>
 
-# *Interests*
-* Data Engineering: ES, Kafka, MongoDB, Hadoop, MySQL
-* Language: Java, Python
-* Container: Kubenetes, Docker
-* Machine/Deep Learning
+# *Skills*
+## *Backend*
+
+- Java, Python, Golang
+- Spring Boot, JPA, JUnit4
+- Docker, Kubernetes
+- IntelliJ, VS Code, Vim
+- Git
+
+## *DevOps*
+
+- Public Cloud (NHN Cloud)
+- MySQL, ElasticSearch, Logstash, Kafka, MongoDB
 
 # *Resume*
 * [click-link](https://github.com/jx2lee/resume/blob/my-resume/jaejun_lee_resume.pdf)
