@@ -14,7 +14,7 @@
 # *Skills*
 ## *Backend*
 
-- Java, Python, Golang
+- Java, Python
 - Spring Boot, JPA, JUnit4
 - Docker, Kubernetes
 - IntelliJ, VS Code, Vim
