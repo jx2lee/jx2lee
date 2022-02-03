@@ -15,17 +15,28 @@
 ***Backend***
 
 - Java, Python
-- Spring Boot, JPA, JUnit4
-- Docker, Kubernetes
-- IntelliJ, VS Code, Vim
-- Git
+- Spring Boot, Spring MVC
+- JPA
+- JUnit4(5), Mockito
+- Gradle
+
+***DevOps***
+
 - Jenkins
+- Docker, Kubernetes
 - Public Cloud (e.g NHN Cloud)
 
-***BigData***
+***Data***
 
-- ElasticSearch, Logstash, Kafka, MongoDB, Hadoop(CDP)
+- ElasticSearch, Logstash, Kafka
+- MongoDB
+- Hadoop(CDP)
 - MySQL
+
+***Collaboration(Tool)***
+
+- Git
+- IntelliJ, VS Code, Vim
 
 # *Resume*
 * [link](https://github.com/jx2lee/resume/blob/my-resume/jaejun_lee_resume.pdf)
