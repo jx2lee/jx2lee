@@ -20,18 +20,18 @@
 - JUnit4(5), Mockito
 - Gradle
 
-***DevOps***
-
-- Jenkins
-- Docker, Kubernetes
-- Public Cloud (e.g NHN Cloud)
-
 ***Data***
 
 - ElasticSearch, Logstash, Kafka
 - MongoDB
 - Hadoop(CDP)
 - MySQL
+
+***DevOps***
+
+- Jenkins
+- Docker, Kubernetes
+- Public Cloud (e.g NHN Cloud)
 
 ***Collaboration(Tool)***
 
