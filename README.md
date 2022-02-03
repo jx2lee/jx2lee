@@ -12,24 +12,20 @@
 </div>
 
 # *Skills*
-## *Backend*
+***Backend***
 
 - Java, Python
 - Spring Boot, JPA, JUnit4
 - Docker, Kubernetes
 - IntelliJ, VS Code, Vim
 - Git
+- Jenkins
+- Public Cloud (e.g NHN Cloud)
 
-## *BigData*
+***BigData***
 
 - ElasticSearch, Logstash, Kafka, MongoDB, Hadoop(CDP)
 - MySQL
-
-## *DevOps*
-
-- Jenkins
-- Public Cloud (NHN Cloud)
-
 
 # *Resume*
 * [link](https://github.com/jx2lee/resume/blob/my-resume/jaejun_lee_resume.pdf)
