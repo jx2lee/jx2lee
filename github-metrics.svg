@@ -34,11 +34,11 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>jx2lee</b> registered=1y, uid=5794, gid=0
-  contributed to 45 repositories <b><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 45 repositories <b><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>5</b> users
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  910</b> commits
+  <b>  912</b> commits
   <b>    0</b> pull requests reviewed
   <b>    3</b> pull requests opened
   <b>    0</b> issues opened
@@ -47,7 +47,7 @@
 <b>Tracked activity</b>
   <b>    8</b> users followed
   <b>    0</b> repositories sponsored
-  <b>   81</b> repositories starred
+  <b>   82</b> repositories starred
   <b>   49</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 59 repositories - 1.08 GB
@@ -1924,8 +1924,13 @@ dr-x         LICENSE
                       <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.333333333333334 0,3.3333333333333335 z"/>
                       <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3333333333333335 1.7,4.333333333333334 z"/>
+                    </g>
+                    <g transform="translate(-8.5, 10.333333333333332)">
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z"/>
                     </g></g></g></svg></div>
-<b>    2</b> consecutive days with commits
+<b>    3</b> consecutive days with commits
 <b>~2.32</b> commits per day in average
 </div>
 
