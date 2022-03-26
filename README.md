@@ -16,7 +16,7 @@
 
 - Java, Python
 - Spring Boot, Spring MVC
-- JUnit4(5), Mockito
+- JUnit, Mockito
 - Gradle
 
 ***Data***
