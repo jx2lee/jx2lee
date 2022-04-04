@@ -23,7 +23,7 @@
 
 - ElasticSearch, Logstash, Kafka
 - MongoDB
-- Hadoop(CDP)
+- Hadoop(CDP), Spark
 - MySQL
 
 ***DevOps***
