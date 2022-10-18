@@ -15,31 +15,30 @@
 ***Backend***
 
 - Java, Python
-- Spring Boot, Spring MVC
-- JUnit, Mockito
+- Framework
+  - Spring
+  - Flask
+  - JUnit, Mockito
 - Gradle
 
 ***Data***
 
-- ElasticSearch, Logstash, Kafka
+- Kafka, ELK
 - MongoDB
 - Hadoop(CDP), Spark
-- MySQL
+- MySQL, MSSQL
+- BigQuery, Airflow
 
 ***DevOps***
 
-- Jenkins
 - Docker, Kubernetes
-- Public Cloud (e.g NHN Cloud)
+- Jenkins
+- Public Cloud (AWS, GCP, NHN Cloud)
 
 ***Collaboration(Tool)***
 
-- Git
+- Git, Bitbucket, Atlassian
 - IntelliJ, VS Code, Vim
 
-# *Resume & Portfolio*
-
-* [resume](https://github.com/jx2lee/resume/blob/my-resume/jaejun_lee_resume.pdf)
-* [portfolio](https://jx2lee.notion.site/5ae4ad1f2387447f8ef4e22dd95205df)
 
 ![snake gif](https://github.com/jx2lee/jx2lee/blob/output/github-contribution-grid-snake.svg)
