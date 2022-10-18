@@ -12,6 +12,14 @@
 </div>
 
 # *Skills*
+***Data***
+
+- Kafka, ELK
+- BigQuery, Airflow
+- MySQL, MSSQL
+- MongoDB
+- Hadoop(CDP), Spark
+
 ***Backend***
 
 - Java, Python
@@ -20,14 +28,6 @@
   - Flask
   - JUnit, Mockito
 - Gradle
-
-***Data***
-
-- Kafka, ELK
-- MongoDB
-- Hadoop(CDP), Spark
-- MySQL, MSSQL
-- BigQuery, Airflow
 
 ***DevOps***
 
