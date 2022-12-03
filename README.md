@@ -24,21 +24,20 @@
 
 - Java, Python
 - Framework
-  - Spring
-  - Flask
+  - Spring, Flask
   - JUnit, Mockito
-- Gradle
 
 ***DevOps***
 
 - Docker, Kubernetes
 - Jenkins
-- Public Cloud (AWS, GCP, NHN Cloud)
+- AWS, GCP
+- Gradle
 
 ***Collaboration(Tool)***
 
 - Git, Bitbucket, Atlassian
-- IntelliJ, VS Code, Vim
+- IntelliJ, VSCode, Vim
 
 
 ![snake gif](https://github.com/jx2lee/jx2lee/blob/output/github-contribution-grid-snake.svg)
