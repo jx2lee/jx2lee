@@ -11,20 +11,15 @@
 <img src="./github-metrics.svg" alt="" />
 </div>
 
-# *Skills*
+# Skills
 ***Data***
-- OLAP & OLTP
-  - BigQuery
-  - MySQL
-- NoSQL
-  - ElasticSearch
-  - MongoDB
-  - Hadoop(CDP)
+- OLAP & OLTP: BigQuery, MySQL
+- NoSQL: ElasticSearch, MongoDB, Hadoop(CDP)
 - streaming: Kafka
 - workflow: Airflow
 - ELT
   - EL: meltano
-  - T: dbt, great expectationS
+  - T: dbt, great expectations
 - discovery: datahub
 
 ***Backend***
