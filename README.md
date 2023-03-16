@@ -13,30 +13,30 @@
 
 # Skills
 ***Data***
-- OLAP & OLTP: BigQuery, MySQL
-- NoSQL: ElasticSearch, MongoDB, Hadoop(CDP)
-- streaming: Kafka
-- workflow: Airflow
+- BigQuery, MySQL
+- ElasticSearch, MongoDB, Hadoop(CDP)
+- Kafka
+- Airflow
 - ELT
-  - EL: meltano
-  - T: dbt, great expectations
-- discovery: datahub
+  - meltano
+  - dbt
+- datahub
 
 ***Backend***
 - Java, Python
 - Framework
   - web:Spring, Flask
-  - test: JUnit, Mockito, unittest
+  - test: JUnit, unittest
 
 ***DevOps***
-- container: Kubernetes, Docker
-- ci/cd: Jenkins, ArgoCD, Atlasian(bamboo & stash)
-- public cloud: AWS, GCP
-- build: Gradle
+- Kubernetes, Docker
+- Jenkins, ArgoCD, Bamboo & Stash (Atlasian)
+- AWS, GCP
+- Gradle
 
 ***Collaboration***
-- vcs: Git
-- ide: IntelliJ, VSCode, Vim
+- Git
+- IntelliJ, VSCode, Vim
 
 
 ![snake gif](https://github.com/jx2lee/jx2lee/blob/output/github-contribution-grid-snake.svg)
