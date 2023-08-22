@@ -1,4 +1,4 @@
-# Hi!🔥
+### Hi!🔥
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Digital%20Garden-black?style=flat-square&link=https://jx2lee.netlify.app/)](https://jx2lee.netlify.app/) 
@@ -10,33 +10,5 @@
 <div align=center>
 <img src="./github-metrics.svg" alt="" />
 </div>
-
-# Skills
-***Data***
-- BigQuery, MySQL
-- ElasticSearch, MongoDB, Hadoop(CDP)
-- Kafka
-- Airflow
-- ELT
-  - meltano
-  - dbt
-- datahub
-
-***Backend***
-- Java, Python
-- Framework
-  - web:Spring, Flask
-  - test: JUnit, unittest
-
-***DevOps***
-- Kubernetes, Docker
-- Jenkins, ArgoCD, Bamboo & Stash (Atlasian)
-- AWS, GCP
-- Gradle
-
-***Collaboration***
-- Git
-- IntelliJ, VSCode, Vim
-
 
 ![snake gif](https://github.com/jx2lee/jx2lee/blob/output/github-contribution-grid-snake.svg)
