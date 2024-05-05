@@ -12,7 +12,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
           user: jx2lee
           template: terminal
           base: header, activity, community, repositories
@@ -23,3 +22,14 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, javascript, css, xslt, mustache, vim script, stylus, ejs, nunjucks, jupyter notebook, scss, jinja
           plugin_lines: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, review, ref/create
+
