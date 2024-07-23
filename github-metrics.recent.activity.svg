@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="528" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="451" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,41 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#8648 fix(cli): working GCS state backend properly when any files were located in root bucket</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jx2lee in <span class="repo">meltano/meltano</span></div>
+                                    <div class="comment">@edgarrmondragon 
+No, I was just wondering if there was anything else you want to add to code I wrote!</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#8648 fix(cli): working GCS state backend properly when any files were located in root bucket</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jx2lee in <span class="repo">meltano/meltano</span></div>
+                                    <div class="comment">Could i need to additional unit test?</div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -76,68 +111,6 @@ in above case, my env is below
 <span class="token number">2024</span>-07-20T17:56:48.252942Z <span class="token punctuation">[</span>info     <span class="token punctuation">]</span> The default environment <span class="token string">'dev'</span> will be ignored <span class="token keyword">for</span> <span class="token variable"><span class="token variable">`</span>meltano state<span class="token variable">`</span></span><span class="token builtin class-name">.</span> To configure a specific environment, please use the option <span class="token variable"><span class="token variable">`</span><span class="token parameter variable">--environment</span><span class="token operator">=</span><span class="token variable">`</span></span><span class="token builtin class-name">.</span>
 <span class="token trimmed">(6 more lines were trimmed)</span></code>
                                         How can I reproduce the issue? state commands in issue are running normally.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#8425 bug: `meltano state list` fails for the Google Cloud Storage backend if there are files at the root of the bucket</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by edgarrmondragon in <span class="repo">meltano/meltano</span></div>
-                                    <div class="comment">
-                                        @edgarrmondragon 
-
-in above case, my env below
-                                        <code class="language-multiline language-bash" xml:space="preserve">$ <span class="token function">cat</span> .env
-<span class="token assign-left variable">MELTANO_STATE_BACKEND_URI</span><span class="token operator">=</span><span class="token string">'gs://{my-bucket}/state'</span>
-<span class="token trimmed">(1 more line was trimmed)</span></code>
-                                        My meltano state list command was successful.
-                                        <code class="language-multiline language-bash" xml:space="preserve">$  meltano state list
-<span class="token number">2024</span>-07-20T17:56:48.252942Z <span class="token punctuation">[</span>info     <span class="token punctuation">]</span> The default environment <span class="token string">'dev'</span> will be ignored <span class="token keyword">for</span> <span class="token variable"><span class="token variable">`</span>meltano state<span class="token variable">`</span></span><span class="token builtin class-name">.</span> To configure a specific environment, please use the option <span class="token variable"><span class="token variable">`</span><span class="token parameter variable">--environment</span><span class="token operator">=</span><span class="token variable">`</span></span><span class="token builtin class-name">.</span>
-<span class="token trimmed">(4 more lines were trimmed)</span></code>
-                                        How can I reproduce the issue? state commands in issue are running normally.
-                                        <code class="language-multiline language-bash" xml:space="preserve">$ meltano <span class="token parameter variable">--version</span>
-meltano, version <span class="token number">3.3</span>.1</code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#8425 bug: `meltano state list` fails for the Google Cloud Storage backend if there are files at the root of the bucket</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by edgarrmondragon in <span class="repo">meltano/meltano</span></div>
-                                    <div class="comment">
-                                        @edgarrmondragon 
-
-in above case, my env below
-                                        <code class="language-multiline language-bash" xml:space="preserve">$ <span class="token function">cat</span> .env
-<span class="token assign-left variable">MELTANO_STATE_BACKEND_URI</span><span class="token operator">=</span><span class="token string">'gs://{my-bucket}/state'</span>
-<span class="token trimmed">(1 more line was trimmed)</span></code>
-                                        My meltano state list command was successful.
-                                        <code class="language-multiline language-bash" xml:space="preserve">$  meltano state list
-<span class="token number">2024</span>-07-20T17:56:48.252942Z <span class="token punctuation">[</span>info     <span class="token punctuation">]</span> The default environment <span class="token string">'dev'</span> will be ignored <span class="token keyword">for</span> <span class="token variable"><span class="token variable">`</span>meltano state<span class="token variable">`</span></span><span class="token builtin class-name">.</span> To configure a specific environment, please use the option <span class="token variable"><span class="token variable">`</span><span class="token parameter variable">--environment</span><span class="token operator">=</span><span class="token variable">`</span></span><span class="token builtin class-name">.</span>
-<span class="token trimmed">(4 more lines were trimmed)</span></code>
-                                        How can I reproduce the issue?
-                                        <code class="language-multiline language-bash" xml:space="preserve">$ meltano <span class="token parameter variable">--version</span>
-meltano, version <span class="token number">3.5</span>.0rc1</code>
                                     </div>
                                 </div>
                             </section>
