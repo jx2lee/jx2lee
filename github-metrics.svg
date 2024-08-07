@@ -34,11 +34,11 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Jaejun</b> registered=4y, uid=5794, gid=0
-  contributed to 44 repositories <b><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
+  contributed to 44 repositories <b><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>11</b> users
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1989</b> commits
+  <b> 1992</b> commits
   <b>    1</b> pull request reviewed
   <b>   44</b> pull requests opened
   <b>   13</b> issues opened
@@ -60,11 +60,11 @@ dr-x         LICENSE
 
 <span class="diff">@@ -0 +0 @@</span>
 </div>
-<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [################    ] 75.38%
-<b>PYTHON      </b> [###                 ] 13.67%
-<b>VUE         </b> [#                   ] 3.66 %
-<b>GO          </b> [#                   ] 3.27 %
-<b>SHELL       </b> [#                   ] 3.07 %
+<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [################    ] 75.44%
+<b>PYTHON      </b> [###                 ] 13.64%
+<b>VUE         </b> [#                   ] 3.65 %
+<b>GO          </b> [#                   ] 3.26 %
+<b>SHELL       </b> [#                   ] 3.06 %
 <b>TYPESCRIPT  </b> [#                   ] 0.47 %
 <b>RUST        </b> [#                   ] 0.35 %
 <b>DOCKERFILE  </b> [#                   ] 0.13 %
