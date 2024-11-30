@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>jaejun</b> registered=4y, uid=5794, gid=0
-  contributed to 47 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
+  contributed to 47 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>14</b> users
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
@@ -48,12 +48,12 @@
   <b>   33</b> users followed
   <b>    0</b> repositories sponsored
   <b>  196</b> repositories starred
-  <b>   63</b> repositories watched
+  <b>   64</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 83 repositories - 3.06 GB
+<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 84 repositories - 3.06 GB
 -r--  <b>   20</b>  stargazers
 -r--  <b>    2</b>  forks
--r--  <b>   67</b>  watchers
+-r--  <b>   68</b>  watchers
 dr-x  <b>   10</b>  packages
 dr-x         LICENSE
 -r--         └── Apache-2.0
