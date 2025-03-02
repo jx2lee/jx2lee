@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>jj.lee</b> registered=4y, uid=5794, gid=0
-  contributed to 51 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 51 repositories <b><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>18</b> users
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
@@ -50,7 +50,7 @@
   <b>  217</b> repositories starred
   <b>   64</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 88 repositories - 3.14 GB
+<div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 88 repositories - 3.15 GB
 -r--  <b>   21</b>  stargazers
 -r--  <b>    2</b>  forks
 -r--  <b>   68</b>  watchers
