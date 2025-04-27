@@ -34,15 +34,15 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>jj.lee</b> registered=5y, uid=5794, gid=0
-  contributed to 51 repositories <b><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span></b>
+  contributed to 51 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>18</b> users
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  814</b> commits
+  <b>  815</b> commits
   <b>    1</b> pull request reviewed
   <b>   47</b> pull requests opened
   <b>   13</b> issues opened
-  <b>  141</b> issue comments
+  <b>  142</b> issue comments
 
 <b>Tracked activity</b>
   <b>   38</b> users followed
@@ -58,7 +58,7 @@ dr-x  <b>   10</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -0 +396 @@</span>
+<span class="diff">@@ -0 +0 @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [###############     ] 74.50%
 <b>PYTHON      </b> [###                 ] 14.72%
