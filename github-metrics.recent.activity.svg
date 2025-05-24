@@ -19,6 +19,68 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#50908 feat (airflowctl): transition of Variable Command</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jx2lee in <span class="repo">apache/airflow</span></div>
+                                    <div class="comment">
+                                        @bugraoz93 
+I have tested the import/export functionality, and overall, it works well.
+However, I’ve encountered issue when using the
+                                        <code>action_on_existence</code>
+                                        parameter during import. Specifically, when I set it
+                                        <code>fail, overwrite, or skip</code>
+                                        , the behavior doesn’t align with expectations.
+https://github.com/user-attachments/assets/fecdcecb-6023-4fb7-ac54-d0b8fd6c024c
+
+situation: existed variables, contained existed variables in json(to upload), import with "fail"
+expected: result.errors not empty
+actual: results.errors empty
+
+In particular, the bulk response returns a 200 status code, but both result.success and result.errors are empty. This makes it challenging to determine if the operation was successful or if there were any issues.
+Could you please advise on the following:
+
+Is the bulk request command functioning as intended?
+Is there a potential issue in the current code?
+Are there specific areas in the codebase I should examine to understand this behavior better?
+
+Any guidance would be greatly appreciated! 🙏🏽
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1515 feat: use python-oracledb instead of cx_Oracle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jx2lee in <span class="repo">GoogleCloudPlatform/professional-services-data-validator</span></div>
+                                    <div class="comment">
+                                        @sundar-mudupalli-work 
+Thanks again for your support and for explaining rationale behind requesting write access. I wasn’t aware that was to alleviate the burden on me. It's first time someone has requested write access to my forked repository and your detailed explanation helped me understand better! I appreciate it. ￼
+                                        <i>I have a question for you - you say updated to a new strict pin (SQLAlchemy==2.0.0). Do you have a particular reason to have a pin to a specific release ? I left it floating and it appears to work with the latest version of SQLAlchemy 2.0.40.</i>
+                                        Regarding the SQLAlchemy version pinning, I didn’t have reason for setting it to ==2.0.0. I was following the issue you mentioned, and if the latest version (2.0.40) works well, I agree your approach. However, I’d like to verify whether updating SQLAlchemy version might affect other third-party dependencies.
+Thanks once again for your assistance!
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -67,43 +129,6 @@ Is there any progress on this? If not, could you assign this to me? (I've recent
                                         <i>Looks good! Thanks @jx2lee!</i>
                                         Thanks for review @bugraoz93 🙏
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1515 feat: use python-oracledb instead of cx_Oracle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jx2lee in <span class="repo">GoogleCloudPlatform/professional-services-data-validator</span></div>
-                                    <div class="comment">@sundar-mudupalli-work I've granted you access to the forked repository as requested.
-That said, I believe it might be safer and more effective in the future to leave a review with suggestions on what to fix, rather than granting direct permissions. Just wanted to share that as a friendly suggestion! 👍🏽</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#50424 feat (airflowctl): add dag operations to conform all API endpoints</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jx2lee in <span class="repo">apache/airflow</span></div>
-                                    <div class="comment">@bugraoz93 
-https://airflow.apache.org/docs/apache-airflow/stable/stable-rest-api-ref.html#operation/get_dag_runs
-Does it need adding all query parameters to operation method? Existed method like Get Dag Runs, doesn't have all parameters.</div>
                                 </div>
                             </section>
                         </div>
