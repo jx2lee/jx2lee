@@ -1,6 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.jaejun.lee.1991@gmail.com)](mailto:dev.jaejun.lee.1991@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jx2lee/)](https://www.linkedin.com/in/jx2lee/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Digital%20Garden-black?style=flat-square&link=https://jx2lee.vercel.app/)](https://jx2lee.vercel.app/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Digital%20Garden-black?style=flat-square&link=https://jx2lee.vercel.app/)](https://jx2lee.vercel.app/)
+
 
 ---
 
@@ -10,4 +11,4 @@
 
 ![recent_actvity](https://github.com/jx2lee/jx2lee/blob/master/github-metrics.recent.activity.svg)
 
-
+[![OSSRank](https://ossrank.com/widget/610783)](https://ossrank.com/c/610783-jx2lee)
