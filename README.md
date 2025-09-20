@@ -10,5 +10,3 @@
 ![snake gif](https://github.com/jx2lee/jx2lee/blob/output/github-contribution-grid-snake.svg)
 
 ![recent_actvity](https://github.com/jx2lee/jx2lee/blob/master/github-metrics.recent.activity.svg)
-
-[![OSSRank](https://ossrank.com/widget/610783)](https://ossrank.com/c/610783-jx2lee)
