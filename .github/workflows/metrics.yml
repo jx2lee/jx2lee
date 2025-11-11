@@ -23,7 +23,7 @@ jobs:
           plugin_languages_ignored: html, javascript, css, xslt, mustache, vim script, stylus, ejs, nunjucks, jupyter notebook, scss, jinja
           plugin_lines: yes
 
-      - uses: docker://ghcr.io/EndBug/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.recent.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
