@@ -58,7 +58,7 @@ dr-x  <b>   10</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -1.41m +1.71m @@</span>
+<span class="diff">@@ -1.12m +1.44m @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">jx2lee@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [##############      ] 69.77%
 <b>PYTHON      </b> [###                 ] 13.24%
