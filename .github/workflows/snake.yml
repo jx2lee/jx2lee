@@ -1,7 +1,7 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 0 * * *"
   push: {branches: ["master"]}
   workflow_dispatch:
 
