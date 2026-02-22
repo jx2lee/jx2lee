@@ -8,5 +8,3 @@
 ![terminal](https://github.com/jx2lee/jx2lee/blob/master/github-metrics.svg)
 
 ![snake gif](https://github.com/jx2lee/jx2lee/blob/output/github-contribution-grid-snake.svg)
-
-![recent_actvity](https://github.com/jx2lee/jx2lee/blob/master/github-metrics.recent.activity.svg)
